@@ -30,7 +30,7 @@ blossom {
 version = mod_version
 group = "me.fireandice"
 base {
-    archivesName.set("$mod_name ($platform)")
+    archivesName.set(mod_name)
 }
 loom {
     noServerRunConfigs()
