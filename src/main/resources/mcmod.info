@@ -5,10 +5,10 @@
     "description": "",
     "version": "${version}",
     "mcversion": "1.8.9",
-    "url": "",
+    "url": "https://github.com/llFireAndIcell/AnyFov/",
     "updateUrl": "",
     "authorList": [
-      "Your Name"
+      "llFireAndIcell"
     ],
     "credits": "",
     "logoFile": "",
